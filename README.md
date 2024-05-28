@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there im Musie 👋
+
+I am a student programmer who will be working on fun and new projects and games that will be published here.
 
 <!--
 **TallSpaceMan/TallSpaceMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
